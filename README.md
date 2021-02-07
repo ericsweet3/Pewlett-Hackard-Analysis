@@ -12,9 +12,14 @@ After going through the data, I found 4 significant points that can be brought u
 
 2) There will mostly be a large vacancy and possible vacuum in experience throughout the company. The majority of the employees that are retiring have been with the company for a significant period of time, which makes the mentor-ship program all more important. When all the new employees come in, efficiency has a good possibility of dropping in the short term.
 
+![mentorship_eligibility](https://user-images.githubusercontent.com/75768098/107152026-5d9ccf00-692b-11eb-9cee-d9bb5f3c712c.png)
+
 3) The company most likely needs to hire some more managers, since the data is telling me that there are not many currently employed. Only two with the title of manager are eligible for retirement.
 
-4) Finally, over half of the employees that are retiring are coming from a Senior position, specifically General Staff members, and Senior Engineers. 
+4) Finally, over half of the employees that are retiring are coming from a Senior position, specifically General Staff members, and Senior Engineers. (Also see greatest number of employees retiring from the Senior Staff and Senior Engineers)
+
+![retiring_titles](https://user-images.githubusercontent.com/75768098/107152028-5ecdfc00-692b-11eb-8126-19b7769874e8.png)
+
 
 ## Summary
 
